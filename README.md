@@ -14,7 +14,7 @@ effective than the placebo by 10% - 60%  which is good news for Uji Pharma. Ther
 2. For the 2nd question, I performed a hypothesis test (one tail to the right) in MS Excel, and arrived at the conclusion that we don't have sufficient evidence to prove that treated	patients who showed marked improvements are older than those who didn't, even though our sample statistics said otherwise.
 Technical explanation: This was because the p-value was less than alpha (probability of error), hence we failed to reject the null hypothesis which stated that treated patients who showed marked improvements are the same age or younger than treated patients who didn't show marked improvements.
 
-Access the full working of both solutions in the solution folder.
+Access the full working of both solutions in the solution.xlsx file.
 
 
 
