@@ -1,5 +1,7 @@
 # Statistical-Analysis-of-Arthritis-Clinical-Trials
 
+Data source: https://mavenanalytics.io/
+
 I have the data from the trial on the new arthritis treatment being developed by a hypothetical pharmaceutical company (Uji Pharma). The data contains 84 subjects for the trial, 41 which did take the medication and 43 “placebos” which didn’t.
 
 ## Questions to be answered
